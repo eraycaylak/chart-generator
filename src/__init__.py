@@ -1,0 +1,1 @@
+# Kripto Teknik Analiz Botu - Ana paket
